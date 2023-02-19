@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body {
+    background-color: darkslategray;
+    color: azure;
+    font-size: 20px;
+}
+
+h1 {
+    color: royalblue;
+}
+
+h2 {
+    color: darksalmon;
+}
